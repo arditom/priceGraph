@@ -1,4 +1,4 @@
-# priceGraph
+# price-graph
 Developed by: Tomas Arditi
 Date: October 2023
 
